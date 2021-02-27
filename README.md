@@ -21,3 +21,5 @@ I have some personal ideas of what could be improved, but if you have any other 
 :white_check_mark: Support other formats than DDS
 
 :black_square_button: make the program easier to use (executable release/gui?)
+
+:black_square_button: texture plates
