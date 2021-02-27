@@ -7,7 +7,7 @@ Supports formats DDS, PNG, JPG, BMP, TGA.
 
 Change the settings in settings.py to fit.
 
-The unpacker directory should have all the game unpacked to .bin, since otherwise some files may not be found and the program will crash. An unpack of the game can be made using my DestinyUnpacker.
+The unpacker directory should have all the game unpacked to .bin, since otherwise some files may not be found and the program will crash. An unpack of the game can be made using my DestinyUnpacker. Technically not all the game needs to be unpacked, but some images will crash since they reference textures from other packages.
 
 To run, execute convert_texture.py using an interpreter or console. Let me know of any problems either by placing an Issue or contacting me via discord Monteven#9258, the #datamining-discussion channel on RaidSecrets discord, or twitter @monteven.
 
