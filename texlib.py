@@ -29,6 +29,8 @@ class File:
     def get_fb(self):
         if not self.pkg_name:
             self.get_pkg_name()
+        if not self.pkg_name:
+            raise FileNotFoundError(f'Missing package for file {self.name}. Please extract the package with that ID, or ideally extract the full game.')
         self.fb = open(f'{settings.unpacked_directory}/{self.pkg_name}/{self.name}.bin', 'rb').read()
         return self.fb
 
