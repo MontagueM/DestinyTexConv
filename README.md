@@ -11,6 +11,10 @@ The unpacker directory should have all the game unpacked to .bin, since otherwis
 
 To run, execute convert_texture.py using an interpreter or console. Let me know of any problems either by placing an Issue or contacting me via discord Monteven#9258, the #datamining-discussion channel on RaidSecrets discord, or twitter @monteven.
 
+## Batch branch
+
+The batch_extract branch supports multi-header extraction using a separate text file to read from.
+
 ## Other notes
 This program is extremely WIP and has been released in this state so people can have a look and learn about the basics of datamining in the Destiny franchise.
 
