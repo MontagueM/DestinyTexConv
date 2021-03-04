@@ -18,5 +18,5 @@ texture_format : supports dds, png, jpg, tga, bmp
 
 unpacked_directory = 'C:/UnpackDirectory/Right/Here/Not/Bins/'
 output_directory = 'C:/MyOutput/Folder/'
-header_file_name = 'ABCD-0123'
+header_list_name = 'headers.txt'
 texture_format = 'DDS'
