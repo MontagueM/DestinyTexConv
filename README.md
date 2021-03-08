@@ -23,3 +23,7 @@ I have some personal ideas of what could be improved, but if you have any other 
 :black_square_button: make the program easier to use (executable release/gui?)
 
 :black_square_button: texture plates
+
+## Licensing
+
+This work is covered under GPLv3, although if derivative work is published or this work is used in another tool please provide a credit to myself or this page.
